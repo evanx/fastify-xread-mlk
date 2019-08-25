@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:evanx/fastify-redis-mlk.git"
+    "url": "git@github.com:evanx/fastify-xread-mlk.git"
   },
   "keywords": [
     "Redis"
