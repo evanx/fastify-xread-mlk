@@ -19,7 +19,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "jest": "^27.4.7",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "config": "^3.2.2",
